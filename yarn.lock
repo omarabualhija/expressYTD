@@ -680,6 +680,7 @@ __metadata:
   resolution: "express@workspace:."
   dependencies:
     express: ^4.19.2
+    helmet: ^7.1.0
     nodemon: ^3.1.4
     youtube-dl-exec: ^3.0.7
   languageName: unknown
@@ -900,6 +901,13 @@ __metadata:
   dependencies:
     function-bind: ^1.1.2
   checksum: e8516f776a15149ca6c6ed2ae3110c417a00b62260e222590e54aa367cbcd6ed99122020b37b7fbdf05748df57b265e70095d7bf35a47660587619b15ffb93db
+  languageName: node
+  linkType: hard
+
+"helmet@npm:^7.1.0":
+  version: 7.1.0
+  resolution: "helmet@npm:7.1.0"
+  checksum: 16aaa0df997eaa18821e71389bc9ceffeeaa935df98427ede2bb006065f7e02bb1941caabea16d5a93a791cb3fe7d8a760266bc57b3b9ca5dd7da17ea84244b8
   languageName: node
   linkType: hard
 
